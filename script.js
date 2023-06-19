@@ -5,10 +5,19 @@ const games = [
     {      
       link: "https://aleaplicativos.github.io/dripdripdrip/"
     },
-    
-    {
-      
+    {      
       link: "https://aleaplicativos.github.io/lapis3d/"
+    },
+    ,
+    {      
+      link: "https://aleaplicativos.github.io/explosiveatttraction/"
+    },
+    {      
+      link: "https://aleaplicativos.github.io/hex/"
+    },
+    ,
+    {      
+      link: "https://aleaplicativos.github.io/luminescence/"
     },
         
     // Adicione quantos jogos desejar nesta lista
@@ -49,4 +58,4 @@ const games = [
   nextButton.addEventListener("click", navigateToNextGame);
   
   loadGame();
-  
+     
