@@ -10,6 +10,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/summer2023/"},
     {link: "https://aleaplicativos.github.io/luminescence/"},
     {link: "https://aleaplicativos.github.io/piston-3d/"},
+    {link: "https://aleaplicativos.github.io/olho-crazy/"},
     {link: "https://aleaplicativos.github.io/3taint/"},
         
     // Adicione quantos jogos desejar nesta lista
